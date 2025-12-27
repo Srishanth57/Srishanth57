@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm currently working on building full stack applications including ai automations.<br>Looking to collaborate with like minded people who are interested in this domain.<br>I am also learning full stack web application , web3 , ai , ml and more . <br> 
+## 👋 Hi there, I'm Srishanth!
+
+* 🔭 I'm currently working on building full stack applications including AI automations
+* 🌱 I'm currently learning full stack web development, Web3, AI, ML and more
+* 👯 I'm looking to collaborate with like-minded people interested in AI and full stack development
+* 💬 Ask me about React, Next.js, Node.js, Python, AI automations, or anything tech!
+* 📫 How to reach me: srishanth471011@gmail.com
+* ⚡ Fun fact: I love gaming and exploring new technologies! <br> 
 
 
 ## 🌐 Socials:
